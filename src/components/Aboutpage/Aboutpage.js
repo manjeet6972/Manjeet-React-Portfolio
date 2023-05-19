@@ -16,7 +16,8 @@ function Aboutpage() {
                             <Row>
                                 <h3>Skills</h3>
                                 <Col md={7}>
-                                    <li>HTML5/CSS3</li>
+                                    <li>HTML5</li>
+                                    <li>CSS3</li>
                                     <li>JavaScript</li>
                                     <li>TypeScript</li>
                                     <li>ES 6</li>
@@ -25,17 +26,26 @@ function Aboutpage() {
                                     <li>Agile Methodology</li>
                                     <li>Figma/AdobeXd</li>
                                     <li>Jira</li>
+                                    <li>AEM</li>
+                                    <li>PHP</li>
+                                    <li>Unit Testing</li>
+                                    <li>Jest</li>
                                 </Col>
                                 <Col md={5}>
                                     <li>React JS</li>
                                     <li>Redux</li>
                                     <li>Redux ToolKit</li>
                                     <li>StoryBook</li>
-                                    <li>React-Bootsrap</li>
-                                    <li>Material-ui</li>
+                                    <li>React-Bootstrap</li>
+                                    <li>Material-UI</li>
+                                    <li>Semantic-UI</li>
+                                    <li>Bootstrap 5</li>
                                     <li>Git/Github</li>
                                     <li>Azure Devops</li>
                                     <li>Basic Deployments</li>
+                                    <li>Rest API's</li>
+                                    <li>Responsive UI</li>
+                                    <li>Basic NextJS</li>
                                 </Col>
                             </Row>
                         </ul>

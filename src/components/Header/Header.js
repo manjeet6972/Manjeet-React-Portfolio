@@ -3,7 +3,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { Link } from "react-router-dom";
 import '../../pages/style.css';
-// import resume from '../../Assets/manjeet-resume.pdf';
+import resume from '../../Assets/manjeet-resume.pdf';
 
 
 function Header() {
@@ -77,7 +77,7 @@ function Header() {
               Contact
             </Nav.Link>
           </Nav.Item>
-         <a href={Link} download className="btn btn-primary resumebtn">
+         <a href={resume} download className="btn btn-primary resumebtn">
           <span className='downloadButton'>Download Resume</span>
          </a>
         </Nav>
