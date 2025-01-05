@@ -24,7 +24,7 @@ function Home() {
             }}
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
             <button onClick={() => {
-              window.open("https://www.linkedin.com/in/manjeet-singh-143984152/");
+              window.open("https://www.linkedin.com/in/manjeet6972//");
             }}
               className='socailmediabtn'><FaLinkedinIn className='icon' /></button>
             <button onClick={() => {
